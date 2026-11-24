@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/ayd-doniger/Test.git
     targetRevision: HEAD
-    path: argo_cd
+    path: example
   destination:
     server: https://kubernetes.default.svc
     namespace: guestbook
